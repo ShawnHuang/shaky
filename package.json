@@ -3,6 +3,7 @@
   "version": "0.4.0",
   "description": "This version is a command line version and can convert from ascii text to png.",
   "main": "index.js",
+  "bin": "shaky.js",
   "directories": {
     "example": "examples",
     "test": "test"
