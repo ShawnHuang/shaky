@@ -9,6 +9,7 @@
     "test": "test"
   },
   "dependencies": {
+    "canvas": "^1.2.9",
     "chai": "^3.3.0"
   },
   "devDependencies": {
