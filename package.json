@@ -1,0 +1,33 @@
+{
+  "name": "shaky",
+  "version": "0.0.0",
+  "description": "This version is a command line version and can convert from ascii text to png.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawnHuang/shaky.git"
+  },
+  "keywords": [
+    "shaky",
+    "box-and-lines"
+  ],
+  "author": "ShawnHuang",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ShawnHuang/shaky/issues"
+  },
+  "homepage": "https://github.com/ShawnHuang/shaky#readme"
+}
