@@ -16,8 +16,9 @@ module.exports = function (){
     ctx.stroke();
 
     var fs = require('fs')
-      , out = fs.createWriteStream(__dirname + '/text.png')
+      , out = fs.createWriteStream('./text.png')
       , stream = canvas.pngStream();
+      //, out = fs.createWriteStream(__dirname + '/text.png')
  
     stream.on('data', function(chunk){
       out.write(chunk);
