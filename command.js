@@ -1,5 +1,5 @@
 #! /usr/bin/env node
-var Shaky = require('./index.js'),
+var Shaky = require('shaky'),
     input,
     output,
     arg = process.argv;
