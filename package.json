@@ -1,6 +1,6 @@
 {
   "name": "shaky",
-  "version": "0.12.0",
+  "version": "0.13.0",
   "description": "This version is a command line version and can convert from ascii text to png.",
   "main": "index.js",
   "bin": "shaky.js",
